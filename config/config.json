@@ -1,0 +1,3 @@
+{ 
+    "dbengine": "sqlite:///sensors.db"
+}

@@ -1,0 +1,3 @@
+{ 
+    "dbengine": "oracle+cx_oracle://rmXXXXXXXX:password@oracle.fiap.com.br:1521"
+}
